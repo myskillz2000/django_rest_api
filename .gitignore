@@ -1,5 +1,6 @@
-bin/
-include/
+Scripts/
+Include/
+Lib/
 
 # Django #
 *.log
@@ -107,6 +108,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
 
 # mkdocs documentation
 /site
